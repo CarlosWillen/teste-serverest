@@ -1,0 +1,11 @@
+{
+    "name": "teste-serverest",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "npx playwright test --reporter=list"
+    },
+    "devDependencies": {
+      "@playwright/test": "^1.45.0"
+    }
+  }
+  
